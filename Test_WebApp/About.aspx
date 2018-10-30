@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h1>This is release branch changes </h1>
+    <h1>This is release2 branch changes </h1>
     <p>changes by emran</p>
 </asp:Content>
